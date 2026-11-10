@@ -20,7 +20,7 @@ export default function Navigation() {
         screenOptions={{
         headerShown: false
         }}
-         >
+        >
 
             <Stack.Screen  
             name='Welcome' 
